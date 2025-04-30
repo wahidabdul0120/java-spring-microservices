@@ -1,16 +1,6 @@
-###### Copyright © 2025 Code Jackal | Original Course Material by Chris Blakely
-
----
-# Join the Discord Community
-
-This source code is for the Java/Spring microservices course available on my 
-YouTube channel. You can join the discord for help and discussion here:
-
-https://discord.gg/nCrDnfCE
-
-
-# Patient Service
-
+####-------------Description-----------####
+------"Patient Service"--------
+Microservices project built with Java Spring Boot, using core and advanced Java, Docker, and AWS for scalable API development and deployment.
 ---
 
 ## Environment Variables
